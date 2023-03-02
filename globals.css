@@ -1,0 +1,60 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+/* The following line is used to measure usage of this code in production. For more info see our usage billing page */
+@import url("https://px.animaapp.com/63f5aa1292468e92e2d1b8d7.63f5aa147a149e76602881ba.2N5JafK.hcp.png");
+
+@font-face {
+  font-family: "AdobeClean-Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/AdobeClean-Regular.otf") format("opentype");
+}
+@font-face {
+  font-family: "AdobeClean-Bold";
+  font-style: normal;
+  font-weight: 700;
+  src: url("../fonts/AdobeClean-Bold.otf") format("opentype");
+}
+
+
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+.container-center-horizontal {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  pointer-events: none;
+  width: 100%;
+}
+
+.container-center-horizontal > * {
+  flex-shrink: 0;
+  pointer-events: auto;
+}
+
+.hidden,
+.hidden * {
+  pointer-events: none;
+  visibility: hidden;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.image {
+  height: 7.03vw;
+  object-fit: cover;
+  width: 6.51vw;
+}
+
+.img_7721 {
+  height: 37.19vw;
+  left: 2.5vw;
+  object-fit: cover;
+  position: absolute;
+  top: 18.12vw;
+  width: 62.76vw;
+}
