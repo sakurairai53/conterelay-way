@@ -1,0 +1,1221 @@
+/* screen - web-1920-1-all-breakpoints */
+
+.web-1920-1-all-breakpoints {
+  background-color: var(--fff0c2);
+  height: 1463.44vw;
+  overflow: hidden;
+  position: relative;
+  width: 100.0vw;
+}
+
+.web-1920-1-all-breakpoints .image-1 {
+  height: 1.82vw;
+  left: 41.82vw;
+  top: 116.04vw;
+  width: 16.46vw;
+}
+
+.web-1920-1-all-breakpoints .conte {
+  height: 106.67vw;
+  left: 13.65vw;
+  object-fit: cover;
+  position: absolute;
+  top: 119.9vw;
+  width: 72.71vw;
+}
+
+.web-1920-1-all-breakpoints .top {
+  height: 41.72vw;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: -0.57vw;
+  width: 100.0vw;
+}
+
+.web-1920-1-all-breakpoints .image-2 {
+  height: 3.65vw;
+  left: 25.62vw;
+  top: 45.21vw;
+  width: 48.8vw;
+}
+
+.web-1920-1-all-breakpoints .image-3 {
+  height: 60.57vw;
+  left: 26.82vw;
+  top: 52.81vw;
+  width: 46.41vw;
+}
+
+.web-1920-1-all-breakpoints .image-4 {
+  height: 8.49vw;
+  left: 24.17vw;
+  top: 234.27vw;
+  width: 60.73vw;
+}
+
+.web-1920-1-all-breakpoints .image-5 {
+  height: 7.03vw;
+  left: 16.67vw;
+  top: 232.66vw;
+  width: 6.51vw;
+}
+
+.web-1920-1-all-breakpoints .overlap-group2 {
+  align-items: flex-start;
+  background-image: url(../img/file---1x-png-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 7.03vw;
+  left: 16.67vw;
+  min-width: 6.51vw;
+  position: absolute;
+  top: 280.73vw;
+}
+
+.web-1920-1-all-breakpoints .overlap-group1 {
+  align-items: flex-start;
+  background-image: url(../img/file---1x-png-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 7.03vw;
+  left: 16.67vw;
+  min-width: 6.51vw;
+  position: absolute;
+  top: 298.91vw;
+}
+
+.web-1920-1-all-breakpoints .overlap-group {
+  align-items: flex-start;
+  background-image: url(../img/file---1x-png-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 7.03vw;
+  left: 16.67vw;
+  min-width: 6.51vw;
+  position: absolute;
+  top: 289.95vw;
+}
+
+.web-1920-1-all-breakpoints .overlap-group4 {
+  align-items: flex-start;
+  background-image: url(../img/file---1x-png-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 7.03vw;
+  left: 16.67vw;
+  min-width: 6.51vw;
+  position: absolute;
+  top: 308.33vw;
+}
+
+.web-1920-1-all-breakpoints .overlap-group5 {
+  align-items: flex-start;
+  background-image: url(../img/file---1x-png-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 7.03vw;
+  left: 16.67vw;
+  min-width: 6.51vw;
+  position: absolute;
+  top: 317.45vw;
+}
+
+.web-1920-1-all-breakpoints .x2 {
+  height: 6.3vw;
+  left: 24.17vw;
+  object-fit: cover;
+  position: absolute;
+  top: 370.62vw;
+  width: 60.21vw;
+}
+
+.web-1920-1-all-breakpoints .x334 {
+  height: 8.65vw;
+  left: 24.17vw;
+  object-fit: cover;
+  position: absolute;
+  top: 389.43vw;
+  width: 60.21vw;
+}
+
+.web-1920-1-all-breakpoints .image-6 {
+  height: 1.3vw;
+  left: 24.17vw;
+  top: 382.55vw;
+  width: 60.21vw;
+}
+
+.web-1920-1-all-breakpoints .image-7 {
+  height: 1.3vw;
+  left: 25.52vw;
+  top: 462.76vw;
+  width: 60.21vw;
+}
+
+.web-1920-1-all-breakpoints .image-8 {
+  height: 1.3vw;
+  left: 25.52vw;
+  top: 500.68vw;
+  width: 60.21vw;
+}
+
+.web-1920-1-all-breakpoints .image-9 {
+  height: 1.3vw;
+  left: 25.42vw;
+  top: 536.61vw;
+  width: 60.21vw;
+}
+
+.web-1920-1-all-breakpoints .image-10 {
+  height: 7.03vw;
+  left: 16.67vw;
+  top: 370.26vw;
+  width: 6.51vw;
+}
+
+.web-1920-1-all-breakpoints .image-11 {
+  height: 7.03vw;
+  left: 16.67vw;
+  top: 389.06vw;
+  width: 6.51vw;
+}
+
+.web-1920-1-all-breakpoints .image-12 {
+  height: 7.03vw;
+  left: 16.67vw;
+  top: 379.69vw;
+  width: 6.51vw;
+}
+
+.web-1920-1-all-breakpoints .image-13 {
+  height: 3.85vw;
+  left: 24.17vw;
+  top: 282.4vw;
+  width: 56.56vw;
+}
+
+.web-1920-1-all-breakpoints .image-14 {
+  height: 2.08vw;
+  left: 40.0vw;
+  top: 249.17vw;
+  width: 17.92vw;
+}
+
+.web-1920-1-all-breakpoints .image-15 {
+  height: 6.82vw;
+  left: 24.17vw;
+  top: 301.35vw;
+  width: 56.56vw;
+}
+
+.web-1920-1-all-breakpoints .image-16 {
+  height: 3.8vw;
+  left: 24.17vw;
+  top: 291.61vw;
+  width: 56.56vw;
+}
+
+.web-1920-1-all-breakpoints .image-17 {
+  height: 1.3vw;
+  left: 24.17vw;
+  top: 311.04vw;
+  width: 56.56vw;
+}
+
+.web-1920-1-all-breakpoints .image-18 {
+  height: 1.3vw;
+  left: 24.17vw;
+  top: 320.31vw;
+  width: 56.56vw;
+}
+
+.web-1920-1-all-breakpoints .x21 {
+  height: 11.09vw;
+  left: 25.52vw;
+  object-fit: cover;
+  position: absolute;
+  top: 445.52vw;
+  width: 56.56vw;
+}
+
+.web-1920-1-all-breakpoints .image-19 {
+  height: 4.22vw;
+  left: 25.52vw;
+  top: 471.51vw;
+  width: 56.56vw;
+}
+
+.web-1920-1-all-breakpoints .image-20 {
+  height: 1.3vw;
+  left: 25.47vw;
+  top: 518.91vw;
+  width: 56.56vw;
+}
+
+.web-1920-1-all-breakpoints .image-21 {
+  height: 1.3vw;
+  left: 25.47vw;
+  top: 545.21vw;
+  width: 56.56vw;
+}
+
+.web-1920-1-all-breakpoints .text-1 {
+  left: 25.47vw;
+  letter-spacing: 0.0vw;
+  line-height: 1.3vw;
+  position: absolute;
+  top: 609.95vw;
+  white-space: nowrap;
+  width: 56.67vw;
+}
+
+.web-1920-1-all-breakpoints .text-2 {
+  color: var(--licorice);
+  font-family: var(--font-family-adobe_clean);
+  font-size: var(--font-size-xs);
+  font-weight: 400;
+  left: 25.47vw;
+  letter-spacing: 0.01vw;
+  line-height: 2.34vw;
+  position: absolute;
+  top: 595.0vw;
+  width: 61.77vw;
+}
+
+.web-1920-1-all-breakpoints .span1 {
+  font-family: var(--font-family-adobeclean-bold);
+  font-size: var(--font-size-s);
+  font-weight: 700;
+  letter-spacing: 0.01vw;
+}
+
+.web-1920-1-all-breakpoints .image-22 {
+  height: 1.3vw;
+  left: 25.47vw;
+  top: 509.79vw;
+  width: 56.56vw;
+}
+
+.web-1920-1-all-breakpoints .image-23 {
+  height: 1.3vw;
+  left: 25.47vw;
+  top: 528.02vw;
+  width: 56.56vw;
+}
+
+.web-1920-1-all-breakpoints .image-24 {
+  height: 3.8vw;
+  left: 25.52vw;
+  top: 683.75vw;
+  width: 56.56vw;
+}
+
+.web-1920-1-all-breakpoints .image-25 {
+  height: 1.3vw;
+  left: 25.42vw;
+  top: 764.64vw;
+  width: 56.56vw;
+}
+
+.web-1920-1-all-breakpoints .image-26 {
+  height: 1.3vw;
+  left: 25.42vw;
+  top: 782.6vw;
+  width: 56.56vw;
+}
+
+.web-1920-1-all-breakpoints .image-27 {
+  height: 6.3vw;
+  left: 25.42vw;
+  top: 772.29vw;
+  width: 56.56vw;
+}
+
+.web-1920-1-all-breakpoints .image-28 {
+  height: 6.82vw;
+  left: 25.52vw;
+  top: 695.36vw;
+  width: 56.56vw;
+}
+
+.web-1920-1-all-breakpoints .text-3 {
+  color: var(--licorice);
+  font-family: var(--font-family-adobeclean-bold);
+  font-size: var(--font-size-xs);
+  font-weight: 700;
+  left: 25.47vw;
+  letter-spacing: 0.0vw;
+  line-height: 1.3vw;
+  position: absolute;
+  top: 618.65vw;
+  white-space: nowrap;
+  width: 58.96vw;
+}
+
+.web-1920-1-all-breakpoints .image-29 {
+  height: 8.49vw;
+  left: 25.52vw;
+  top: 669.9vw;
+  width: 63.18vw;
+}
+
+.web-1920-1-all-breakpoints .image-30 {
+  height: 13.18vw;
+  left: 25.42vw;
+  top: 750.89vw;
+  width: 60.78vw;
+}
+
+.web-1920-1-all-breakpoints .image-31 {
+  height: 8.33vw;
+  left: 25.47vw;
+  top: 861.56vw;
+  width: 56.56vw;
+}
+
+.web-1920-1-all-breakpoints .image-32 {
+  height: 7.03vw;
+  left: 18.02vw;
+  top: 444.58vw;
+  width: 6.51vw;
+}
+
+.web-1920-1-all-breakpoints .image-33 {
+  height: 7.03vw;
+  left: 18.02vw;
+  top: 468.65vw;
+  width: 6.51vw;
+}
+
+.web-1920-1-all-breakpoints .image-34 {
+  height: 7.03vw;
+  left: 17.97vw;
+  top: 516.04vw;
+  width: 6.51vw;
+}
+
+.web-1920-1-all-breakpoints .image-35 {
+  height: 7.03vw;
+  left: 17.97vw;
+  top: 542.34vw;
+  width: 6.51vw;
+}
+
+.web-1920-1-all-breakpoints .image-36 {
+  height: 7.03vw;
+  left: 17.97vw;
+  top: 607.08vw;
+  width: 6.51vw;
+}
+
+.web-1920-1-all-breakpoints .image-37 {
+  height: 7.03vw;
+  left: 17.97vw;
+  top: 506.93vw;
+  width: 6.51vw;
+}
+
+.web-1920-1-all-breakpoints .image-38 {
+  height: 7.03vw;
+  left: 17.97vw;
+  top: 525.16vw;
+  width: 6.51vw;
+}
+
+.web-1920-1-all-breakpoints .image-39 {
+  height: 7.03vw;
+  left: 18.02vw;
+  top: 459.9vw;
+  width: 6.51vw;
+}
+
+.web-1920-1-all-breakpoints .image-40 {
+  height: 7.03vw;
+  left: 18.02vw;
+  top: 497.81vw;
+  width: 6.51vw;
+}
+
+.web-1920-1-all-breakpoints .image-41 {
+  height: 7.03vw;
+  left: 17.97vw;
+  top: 533.75vw;
+  width: 6.51vw;
+}
+
+.web-1920-1-all-breakpoints .image-42 {
+  height: 7.03vw;
+  left: 18.02vw;
+  top: 682.29vw;
+  width: 6.51vw;
+}
+
+.web-1920-1-all-breakpoints .image-43 {
+  height: 7.03vw;
+  left: 18.02vw;
+  top: 761.77vw;
+  width: 6.51vw;
+}
+
+.web-1920-1-all-breakpoints .image-44 {
+  height: 7.03vw;
+  left: 18.02vw;
+  top: 779.74vw;
+  width: 6.51vw;
+}
+
+.web-1920-1-all-breakpoints .image-45 {
+  height: 7.03vw;
+  left: 17.97vw;
+  top: 594.48vw;
+  width: 6.51vw;
+}
+
+.web-1920-1-all-breakpoints .image-46 {
+  height: 7.03vw;
+  left: 17.97vw;
+  top: 615.78vw;
+  width: 6.51vw;
+}
+
+.web-1920-1-all-breakpoints .image-47 {
+  height: 7.03vw;
+  left: 18.02vw;
+  top: 692.97vw;
+  width: 6.51vw;
+}
+
+.web-1920-1-all-breakpoints .image-48 {
+  height: 7.03vw;
+  left: 18.02vw;
+  top: 669.06vw;
+  width: 6.51vw;
+}
+
+.web-1920-1-all-breakpoints .image-49 {
+  height: 7.03vw;
+  left: 18.02vw;
+  top: 750.0vw;
+  width: 6.51vw;
+}
+
+.web-1920-1-all-breakpoints .image-50 {
+  height: 7.03vw;
+  left: 18.02vw;
+  top: 770.89vw;
+  width: 6.51vw;
+}
+
+.web-1920-1-all-breakpoints .image-51 {
+  height: 7.03vw;
+  left: 18.02vw;
+  top: 860.52vw;
+  width: 6.51vw;
+}
+
+.web-1920-1-all-breakpoints .c {
+  height: 12.97vw;
+  left: 12.29vw;
+  object-fit: cover;
+  position: absolute;
+  top: 427.03vw;
+  width: 72.71vw;
+}
+
+.web-1920-1-all-breakpoints .c-1 {
+  left: 13.02vw;
+  top: 351.04vw;
+}
+
+.web-1920-1-all-breakpoints .c-2 {
+  left: 12.6vw;
+  top: 264.17vw;
+}
+
+.web-1920-1-all-breakpoints .c-3 {
+  left: 13.65vw;
+  top: 577.6vw;
+}
+
+.web-1920-1-all-breakpoints .c-4 {
+  left: 13.65vw;
+  top: 651.3vw;
+}
+
+.web-1920-1-all-breakpoints .c-5 {
+  left: 12.29vw;
+  top: 732.29vw;
+}
+
+.web-1920-1-all-breakpoints .dc {
+  height: 29.58vw;
+  left: 13.65vw;
+  object-fit: cover;
+  position: absolute;
+  top: 829.11vw;
+  width: 72.71vw;
+}
+
+.web-1920-1-all-breakpoints .image-52 {
+  height: 9.74vw;
+  left: 44.48vw;
+  top: 253.02vw;
+  width: 9.01vw;
+}
+
+.web-1920-1-all-breakpoints .image-53 {
+  height: 2.08vw;
+  left: 41.04vw;
+  top: 334.69vw;
+  width: 17.92vw;
+}
+
+.web-1920-1-all-breakpoints .image-54 {
+  height: 10.05vw;
+  left: 44.74vw;
+  top: 338.59vw;
+  width: 9.32vw;
+}
+
+.web-1920-1-all-breakpoints .image-55 {
+  height: 2.08vw;
+  left: 41.04vw;
+  top: 410.78vw;
+  width: 17.92vw;
+}
+
+.web-1920-1-all-breakpoints .image-56 {
+  height: 10.05vw;
+  left: 44.74vw;
+  top: 414.64vw;
+  width: 9.32vw;
+}
+
+.web-1920-1-all-breakpoints .image-57 {
+  height: 19.11vw;
+  left: 35.16vw;
+  top: 477.45vw;
+  width: 29.74vw;
+}
+
+.web-1920-1-all-breakpoints .image-58 {
+  height: 2.08vw;
+  left: 41.04vw;
+  top: 561.2vw;
+  width: 17.92vw;
+}
+
+.web-1920-1-all-breakpoints .image-59 {
+  height: 10.05vw;
+  left: 44.74vw;
+  top: 565.05vw;
+  width: 9.32vw;
+}
+
+.web-1920-1-all-breakpoints .image-60 {
+  height: 2.08vw;
+  left: 41.04vw;
+  top: 635.05vw;
+  width: 17.92vw;
+}
+
+.web-1920-1-all-breakpoints .image-61 {
+  height: 2.08vw;
+  left: 41.04vw;
+  top: 715.16vw;
+  width: 17.92vw;
+}
+
+.web-1920-1-all-breakpoints .image-62 {
+  height: 10.05vw;
+  left: 44.74vw;
+  top: 638.91vw;
+  width: 9.32vw;
+}
+
+.web-1920-1-all-breakpoints .image-63 {
+  height: 10.05vw;
+  left: 44.74vw;
+  top: 719.01vw;
+  width: 9.32vw;
+}
+
+.web-1920-1-all-breakpoints .image-64 {
+  height: 1.3vw;
+  left: 25.47vw;
+  top: 791.72vw;
+  width: 56.56vw;
+}
+
+.web-1920-1-all-breakpoints .image-65 {
+  height: 4.22vw;
+  left: 25.47vw;
+  top: 875.36vw;
+  width: 56.56vw;
+}
+
+.web-1920-1-all-breakpoints .image-66 {
+  height: 1.3vw;
+  left: 25.47vw;
+  top: 927.4vw;
+  width: 56.56vw;
+}
+
+.web-1920-1-all-breakpoints .image-67 {
+  height: 4.22vw;
+  left: 25.47vw;
+  top: 945.42vw;
+  width: 56.56vw;
+}
+
+.web-1920-1-all-breakpoints .image-68 {
+  height: 1.3vw;
+  left: 25.47vw;
+  top: 936.93vw;
+  width: 56.56vw;
+}
+
+.web-1920-1-all-breakpoints .image-69 {
+  height: 1.3vw;
+  left: 25.47vw;
+  top: 955.31vw;
+  width: 56.56vw;
+}
+
+.web-1920-1-all-breakpoints .image-70 {
+  height: 1.3vw;
+  left: 25.47vw;
+  top: 885.26vw;
+  width: 56.56vw;
+}
+
+.web-1920-1-all-breakpoints .image-71 {
+  height: 1.3vw;
+  left: 25.47vw;
+  top: 894.06vw;
+  width: 56.56vw;
+}
+
+.web-1920-1-all-breakpoints .image-72 {
+  height: 1.3vw;
+  left: 25.47vw;
+  top: 964.38vw;
+  width: 56.56vw;
+}
+
+.web-1920-1-all-breakpoints .image-73 {
+  height: 1.3vw;
+  left: 25.47vw;
+  top: 982.03vw;
+  width: 56.56vw;
+}
+
+.web-1920-1-all-breakpoints .netflix {
+  height: 1.61vw;
+  left: 25.47vw;
+  object-fit: cover;
+  position: absolute;
+  top: 973.44vw;
+  width: 56.56vw;
+}
+
+.web-1920-1-all-breakpoints .image-74 {
+  height: 7.03vw;
+  left: 17.97vw;
+  top: 788.85vw;
+  width: 6.51vw;
+}
+
+.web-1920-1-all-breakpoints .image-75 {
+  height: 7.03vw;
+  left: 17.97vw;
+  top: 872.5vw;
+  width: 6.51vw;
+}
+
+.web-1920-1-all-breakpoints .image-76 {
+  height: 7.03vw;
+  left: 17.97vw;
+  top: 924.53vw;
+  width: 6.51vw;
+}
+
+.web-1920-1-all-breakpoints .image-77 {
+  height: 7.03vw;
+  left: 17.97vw;
+  top: 943.12vw;
+  width: 6.51vw;
+}
+
+.web-1920-1-all-breakpoints .image-78 {
+  height: 7.03vw;
+  left: 17.97vw;
+  top: 934.06vw;
+  width: 6.51vw;
+}
+
+.web-1920-1-all-breakpoints .image-79 {
+  height: 7.03vw;
+  left: 17.97vw;
+  top: 952.45vw;
+  width: 6.51vw;
+}
+
+.web-1920-1-all-breakpoints .image-80 {
+  height: 7.03vw;
+  left: 17.97vw;
+  top: 882.4vw;
+  width: 6.51vw;
+}
+
+.web-1920-1-all-breakpoints .image-81 {
+  height: 7.03vw;
+  left: 17.97vw;
+  top: 891.2vw;
+  width: 6.51vw;
+}
+
+.web-1920-1-all-breakpoints .image-82 {
+  height: 7.03vw;
+  left: 17.97vw;
+  top: 961.51vw;
+  width: 6.51vw;
+}
+
+.web-1920-1-all-breakpoints .image-83 {
+  height: 7.03vw;
+  left: 17.97vw;
+  top: 979.17vw;
+  width: 6.51vw;
+}
+
+.web-1920-1-all-breakpoints .image-84 {
+  height: 7.03vw;
+  left: 17.97vw;
+  top: 970.57vw;
+  width: 6.51vw;
+}
+
+.web-1920-1-all-breakpoints .image-85 {
+  height: 2.08vw;
+  left: 39.11vw;
+  top: 812.08vw;
+  width: 25.36vw;
+}
+
+.web-1920-1-all-breakpoints .image-86 {
+  height: 10.05vw;
+  left: 44.74vw;
+  top: 815.62vw;
+  width: 9.32vw;
+}
+
+.web-1920-1-all-breakpoints .x5 {
+  height: 19.79vw;
+  left: 32.03vw;
+  object-fit: cover;
+  position: absolute;
+  top: 901.04vw;
+  width: 35.99vw;
+}
+
+.web-1920-1-all-breakpoints .x7 {
+  height: 23.96vw;
+  left: 28.23vw;
+  object-fit: cover;
+  position: absolute;
+  top: 991.56vw;
+  width: 43.54vw;
+}
+
+.web-1920-1-all-breakpoints .overlap-group3 {
+  height: 55.31vw;
+  left: 16.15vw;
+  position: absolute;
+  top: 1032.66vw;
+  width: 68.44vw;
+}
+
+.web-1920-1-all-breakpoints .image-87 {
+  height: 18.8vw;
+  left: 0;
+  top: 0;
+  width: 68.44vw;
+}
+
+.web-1920-1-all-breakpoints .image-88 {
+  height: 11.04vw;
+  left: 25.52vw;
+  top: 1095.0vw;
+  width: 56.56vw;
+}
+
+.web-1920-1-all-breakpoints .image-89 {
+  height: 1.3vw;
+  left: 25.52vw;
+  top: 1110.52vw;
+  width: 56.56vw;
+}
+
+.web-1920-1-all-breakpoints .image-90 {
+  height: 7.03vw;
+  left: 18.02vw;
+  top: 1094.38vw;
+  width: 6.51vw;
+}
+
+.web-1920-1-all-breakpoints .image-91 {
+  height: 7.03vw;
+  left: 18.02vw;
+  top: 1107.6vw;
+  width: 6.51vw;
+}
+
+.web-1920-1-all-breakpoints .image-92 {
+  height: 1.04vw;
+  left: 72.19vw;
+  top: 1088.65vw;
+  width: 9.48vw;
+}
+
+.web-1920-1-all-breakpoints .img_7763 {
+  height: 36.15vw;
+  left: 18.33vw;
+  object-fit: cover;
+  position: absolute;
+  top: 1120.21vw;
+  width: 63.39vw;
+}
+
+.web-1920-1-all-breakpoints .image-93 {
+  height: 1.04vw;
+  left: 63.23vw;
+  top: 1157.5vw;
+  width: 18.8vw;
+}
+
+.web-1920-1-all-breakpoints .image-94 {
+  height: 1.3vw;
+  left: 25.52vw;
+  top: 1166.04vw;
+  width: 56.56vw;
+}
+
+.web-1920-1-all-breakpoints .text-4 {
+  color: var(--licorice);
+  font-family: var(--font-family-adobeclean-bold);
+  font-size: var(--font-size-m);
+  font-weight: 700;
+  left: 47.71vw;
+  letter-spacing: 0;
+  line-height: 1.82vw;
+  position: absolute;
+  top: 1171.67vw;
+  width: 56.67vw;
+}
+
+.web-1920-1-all-breakpoints .image-95 {
+  height: 4.06vw;
+  left: 25.94vw;
+  top: 1230.26vw;
+  width: 56.56vw;
+}
+
+.web-1920-1-all-breakpoints .image-96 {
+  height: 7.03vw;
+  left: 17.92vw;
+  top: 1163.23vw;
+  width: 6.51vw;
+}
+
+.web-1920-1-all-breakpoints .image-97 {
+  height: 7.03vw;
+  left: 18.33vw;
+  top: 1228.85vw;
+  width: 6.51vw;
+}
+
+.web-1920-1-all-breakpoints .image-98 {
+  height: 25.21vw;
+  left: 34.58vw;
+  top: 1198.96vw;
+  width: 30.89vw;
+}
+
+.web-1920-1-all-breakpoints .img_7776 {
+  height: 37.5vw;
+  left: 18.33vw;
+  object-fit: cover;
+  position: absolute;
+  top: 1239.06vw;
+  width: 63.39vw;
+}
+
+.web-1920-1-all-breakpoints .image-99 {
+  height: 1.3vw;
+  left: 25.94vw;
+  top: 1288.44vw;
+  width: 56.56vw;
+}
+
+.web-1920-1-all-breakpoints .image-100 {
+  height: 1.3vw;
+  left: 25.94vw;
+  top: 1342.4vw;
+  width: 56.56vw;
+}
+
+.web-1920-1-all-breakpoints .image-101 {
+  height: 4.22vw;
+  left: 25.73vw;
+  top: 1359.48vw;
+  width: 56.56vw;
+}
+
+.web-1920-1-all-breakpoints .image-102 {
+  height: 1.3vw;
+  left: 25.73vw;
+  top: 1350.94vw;
+  width: 56.56vw;
+}
+
+.web-1920-1-all-breakpoints .image-103 {
+  height: 3.8vw;
+  left: 25.73vw;
+  top: 1383.54vw;
+  width: 56.56vw;
+}
+
+.web-1920-1-all-breakpoints .image-104 {
+  height: 4.22vw;
+  left: 25.73vw;
+  top: 1414.32vw;
+  width: 56.56vw;
+}
+
+.web-1920-1-all-breakpoints .image-105 {
+  height: 1.82vw;
+  left: 39.38vw;
+  top: 1395.42vw;
+  width: 20.31vw;
+}
+
+.web-1920-1-all-breakpoints .image-106 {
+  height: 1.3vw;
+  left: 25.73vw;
+  top: 1368.23vw;
+  width: 56.56vw;
+}
+
+.web-1920-1-all-breakpoints .image-107 {
+  height: 7.03vw;
+  left: 17.92vw;
+  top: 1285.52vw;
+  width: 6.51vw;
+}
+
+.web-1920-1-all-breakpoints .image-108 {
+  height: 7.03vw;
+  left: 17.92vw;
+  top: 1339.48vw;
+  width: 6.51vw;
+}
+
+.web-1920-1-all-breakpoints .image-109 {
+  height: 7.03vw;
+  left: 17.71vw;
+  top: 1356.56vw;
+  width: 6.51vw;
+}
+
+.web-1920-1-all-breakpoints .image-110 {
+  height: 7.03vw;
+  left: 58.02vw;
+  top: 1398.96vw;
+  width: 6.51vw;
+}
+
+.web-1920-1-all-breakpoints .image-111 {
+  height: 7.03vw;
+  left: 17.71vw;
+  top: 1348.02vw;
+  width: 6.51vw;
+}
+
+.web-1920-1-all-breakpoints .image-112 {
+  height: 7.03vw;
+  left: 17.71vw;
+  top: 1382.4vw;
+  width: 6.51vw;
+}
+
+.web-1920-1-all-breakpoints .image-113 {
+  height: 7.03vw;
+  left: 17.71vw;
+  top: 1412.08vw;
+  width: 6.51vw;
+}
+
+.web-1920-1-all-breakpoints .image-114 {
+  height: 7.03vw;
+  left: 17.71vw;
+  top: 1365.31vw;
+  width: 6.51vw;
+}
+
+.web-1920-1-all-breakpoints .image-115 {
+  height: 8.49vw;
+  left: 25.94vw;
+  top: 1295.73vw;
+  width: 56.56vw;
+}
+
+.web-1920-1-all-breakpoints .image-116 {
+  height: 7.03vw;
+  left: 17.97vw;
+  top: 1294.79vw;
+  width: 6.51vw;
+}
+
+.web-1920-1-all-breakpoints .x1 {
+  height: 13.33vw;
+  left: 25.94vw;
+  object-fit: cover;
+  position: absolute;
+  top: 1305.21vw;
+  width: 55.16vw;
+}
+
+.web-1920-1-all-breakpoints .image-117 {
+  height: 1.3vw;
+  left: 25.73vw;
+  top: 1376.77vw;
+  width: 55.62vw;
+}
+
+.web-1920-1-all-breakpoints .image-118 {
+  height: 3.8vw;
+  left: 25.94vw;
+  top: 1319.58vw;
+  width: 56.56vw;
+}
+
+.web-1920-1-all-breakpoints .image-119 {
+  height: 8.33vw;
+  left: 25.94vw;
+  top: 1328.23vw;
+  width: 56.56vw;
+}
+
+.web-1920-1-all-breakpoints .image-120 {
+  height: 7.03vw;
+  left: 17.97vw;
+  top: 1303.96vw;
+  width: 6.51vw;
+}
+
+.web-1920-1-all-breakpoints .image-121 {
+  height: 7.03vw;
+  left: 17.71vw;
+  top: 1373.85vw;
+  width: 6.51vw;
+}
+
+.web-1920-1-all-breakpoints .image-122 {
+  height: 7.03vw;
+  left: 17.97vw;
+  top: 1318.12vw;
+  width: 6.51vw;
+}
+
+.web-1920-1-all-breakpoints .image-123 {
+  height: 7.03vw;
+  left: 17.97vw;
+  top: 1327.29vw;
+  width: 6.51vw;
+}
+
+.web-1920-1-all-breakpoints .image-124 {
+  height: 7.45vw;
+  left: 21.72vw;
+  top: 1432.5vw;
+  width: 56.56vw;
+}
+
+.web-1920-1-all-breakpoints .image-125 {
+  height: 7.03vw;
+  left: 35.57vw;
+  top: 1398.96vw;
+  width: 6.51vw;
+}
+
+.web-1920-1-all-breakpoints .image-126 {
+  height: 7.03vw;
+  left: 28.12vw;
+  top: 1398.96vw;
+  width: 6.51vw;
+}
+
+.web-1920-1-all-breakpoints .image-127 {
+  height: 7.03vw;
+  left: 50.47vw;
+  top: 1398.96vw;
+  width: 6.51vw;
+}
+
+.web-1920-1-all-breakpoints .image-128 {
+  height: 7.03vw;
+  left: 65.47vw;
+  top: 1398.96vw;
+  width: 6.51vw;
+}
+
+.web-1920-1-all-breakpoints .image-129 {
+  height: 7.03vw;
+  left: 43.02vw;
+  top: 1398.96vw;
+  width: 6.51vw;
+}
+
+.web-1920-1-all-breakpoints .x2-1 {
+  height: 0.05vw;
+  left: 9.69vw;
+  object-fit: cover;
+  position: absolute;
+  top: 1028.12vw;
+  width: 78.75vw;
+}
+
+.web-1920-1-all-breakpoints .sasa {
+  height: 9.53vw;
+  left: -0.52vw;
+  object-fit: cover;
+  position: fixed;
+  top: -0.52vw;
+  width: 101.88vw;
+}
+
+.web-1920-1-all-breakpoints .image-130 {
+  height: 1.04vw;
+  left: 75.57vw;
+  top: 1277.6vw;
+  width: 6.35vw;
+}
+
+.web-1920-1-all-breakpoints .c-6 {
+  height: 12.97vw;
+  object-fit: cover;
+  position: absolute;
+  width: 72.71vw;
+}
+
+.web-1920-1-all-breakpoints .image-131 {
+  object-fit: cover;
+  position: absolute;
+}
